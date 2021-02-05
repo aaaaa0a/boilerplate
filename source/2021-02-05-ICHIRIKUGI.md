@@ -1,11 +1,3 @@
----
-title: アメリカのローコンテクスト・ハイコンテクスト
-date: 2021-02-05
-tags: ["雑感"]
----
-
-
-
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 <script type="text/x-mathjax-config">
@@ -16,6 +8,16 @@ tags: ["雑感"]
  }
  });
 </script>
+
+
+---
+title: アメリカのローコンテクスト・ハイコンテクスト
+date: 2021-02-05
+tags: ["雑感"]
+---
+
+
+
 
 
 # 今北産業
