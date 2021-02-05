@@ -13,6 +13,7 @@ tags: ["技術"]
 
 # 問題文について
 
+![Fig01](./images/ichirikugi_B-2.png "Fig01")
 
 
 
